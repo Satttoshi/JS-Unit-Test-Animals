@@ -18,5 +18,8 @@
   },
   "nf": {
     "template": "js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
   }
 }
